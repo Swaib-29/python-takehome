@@ -1,0 +1,32 @@
+Group Members
+
+    Olema Swaib
+    Atukunda Shanita
+    Kizza Gertrude
+
+ Overview
+
+This program collects user input for their name, age, and favorite number, providing feedback based on each input.
+It includes error handling for invalid inputs and conditional statements to categorize the favorite number. 
+The program also calculates the user’s birth year based on their age and determines if the favorite number is even or odd.
+Contributions
+
+Each group member contributed equally to the development and testing phases of this project. The tasks were divided as follows:
+1. Olema Swaib
+
+    Worked on implementing the input prompts and managing the error handling for non-numeric values in the age and favorite number inputs.
+    Helped with setting up the calculation of the birth year and ensuring that the logic was clear and accurate.
+    Participated actively in the final testing to ensure that all input types were handled smoothly.
+
+2. Atukunda Shanita
+
+    Focused on designing and structuring the conditional statements, especially those related to determining if the favorite number was even or odd and checking its range.
+    Added additional user feedback for "small," "large," and "very large" favorite number conditions.
+    Contributed equally in testing, focusing on edge cases like boundary numbers (e.g., 10 and 100) and invalid inputs.
+
+3. Kizza Gertrude
+
+    Developed the input prompt for the name and created the greeting message to ensure user engagement.
+    Provided assistance in formatting the output messages and making the user interface friendly.
+    Was actively involved in testing, paying special attention to the user’s experience, and validating that all outputs were as expected.
+

@@ -1,0 +1,30 @@
+Project Title: Book Management System with Sorting 
+Group Members:
+•	Olema Swaib         B/23/U/D0899/PS
+•	Kizza Getrude       2300900602
+•	Anatunda Shanita    2300900119
+__________________
+Group Contributions Report
+
+OLEMA SWAIB
+
+Olema played a central role in the overall logic of the program, particularly in sorting the books by their publication year and ensuring proper handling of the book list. Olema took the initiative to implement error handling for edge cases, such as empty lists and invalid book objects.
+Additionally, Olema wrote the get_description() function, which formats the book details into a readable string. Olema also worked on the sorted_books_by_year() function, ensuring that books are correctly sorted and added error handling for empty lists and invalid entries.
+
+KIZZA GERTRUDE 
+
+Kizza focused on the development of the Book class itself, ensuring that it was well-structured, simple, and included all necessary attributes such as title, author, and year published. 
+Kizza was also responsible for ensuring that the search functionality worked as intended. 
+In addition, Kizza contributed to creating the initial list of books, which formed the basis for testing and further implementation.
+
+ATUKUNDA SHANITAH 
+
+Shanita was primarily responsible for writing the search functionality, which allows users to search for books by title. 
+She ensured that the search process is case-insensitive, making it easier for users to input titles regardless of letter casing. 
+Shanita also participated in testing the program, confirming that all functions worked as expected, particularly the sorting and search features. 
+She helped ensure the robustness of the code by checking for potential issues with user inputs and edge cases.
+
+TESTING
+The team rigorously tested the program by adding sample books, sorting them by publication year, and performing multiple search queries. 
+We ensured that the books were sorted correctly by their year of publication. 
+The search function was tested for case-insensitivity, confirming that it would function as expected regardless of whether the user entered uppercase or lowercase characters. The sorting was done using the sorted() function with a lambda expression to handle the sorting by year. Additionally, the team verified that edge cases, such as empty lists or non-Book objects in the list, were handled gracefully without causing crashes or unexpected behavior.
